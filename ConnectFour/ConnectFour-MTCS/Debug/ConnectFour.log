@@ -1,0 +1,8 @@
+﻿  AI.cpp
+c:\users\hsw\downloads\aizjsprxmvh-mcts\connectfour\ai.cpp(155): warning C4101: 'newboard' :참조되지 않은 지역 변수입니다.
+c:\users\hsw\downloads\aizjsprxmvh-mcts\connectfour\ai.cpp(154): warning C4101: 'row' :참조되지 않은 지역 변수입니다.
+  ConnectFour.cpp
+  board.cpp
+  UI.cpp
+  코드를 생성하고 있습니다...
+  ConnectFour.vcxproj -> C:\Users\HSW\Downloads\AIzjsprxmvh-MCTS\ConnectFour\Debug\ConnectFour.exe
